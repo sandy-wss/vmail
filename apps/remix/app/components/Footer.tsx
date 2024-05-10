@@ -17,7 +17,7 @@ export default function Footer() {
         to="https://tmail.pub"
         target="_blank">
         {" "}
-        © 2024 Products of Yesmore
+        © 2024 tmail.pub
       </Link>
       <Link
         className="text-gray-300 text-sm hover:text-gray-500 ml-1 hidden md:block"
