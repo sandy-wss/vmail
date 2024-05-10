@@ -33,7 +33,7 @@ import Password from "~/components/icons/Password";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "tmail.pub - Virtual Temporary Email" },
+    { title: "TMAIL.PUB - Virtual Temporary Email" },
     {
       name: "description",
       content:
@@ -277,7 +277,7 @@ export default function Index() {
             </button>
 
             <div className="text-sm text-gray-300 mt-4">
-              {t("tmail.pub sender is beta now. ")}
+              {t("TMAIL.PUB sender is beta now. ")}
               <span
                 onClick={() => setShowSenderModal(true)}
                 className="text-cyan-500 cursor-pointer">
