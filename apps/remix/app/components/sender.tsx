@@ -52,7 +52,7 @@ export default function SenderModal({
         />
 
         <div className="flex flex-col items-center justify-center space-y-3 border-b border-gray-200 px-4 py-5 text-center md:px-16">
-          <h3 className="font-display text-2xl font-bold">Vmail Sender</h3>
+          <h3 className="font-display text-2xl font-bold">mail Sender</h3>
           <p className="text-gray-500">{t("Forward only, no storage")}</p>
         </div>
         <Form method="POST" className="flex flex-col mt-4 space-y-4 px-4">
